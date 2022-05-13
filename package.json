@@ -43,6 +43,6 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
-    "semver": "^7.3.2"
+    "semver": "^7.3.7"
   }
 }
